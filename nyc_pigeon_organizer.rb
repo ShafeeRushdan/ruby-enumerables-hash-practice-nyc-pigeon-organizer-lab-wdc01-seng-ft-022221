@@ -14,6 +14,7 @@ if !final_array[name]
   final_array[name] = {}
 end
 
-if !final_array[]
+if !final_array[name][key]
+  !final_array[name][key]
 final_array
 end
