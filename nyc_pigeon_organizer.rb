@@ -10,7 +10,7 @@ value.each do |(inner_key),names|
  #binding.pry
   # write your code here!
 
-if !final_array
+if !final_array[name]
 end
 final_array
 end
