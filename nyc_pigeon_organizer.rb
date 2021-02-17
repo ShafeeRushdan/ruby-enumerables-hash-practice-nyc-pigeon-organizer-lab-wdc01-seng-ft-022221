@@ -20,6 +20,6 @@ if !final_array[name][key]
 end
 
 
-final_array
+final_array[name][key].push
 end
 end
