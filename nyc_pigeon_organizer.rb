@@ -11,6 +11,7 @@ value.each do |(inner_key),names|
   # write your code here!
 
 if !final_array[name]
+  final_array{}
 end
 final_array
 end
